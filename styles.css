@@ -136,8 +136,13 @@ img {
     border: 2px solid blue;
     border-radius: 4px;
     flex-shrink: 0;
+    padding-bottom: 30px;
+
 }
 
+.card-text {
+    padding-top: 15px;
+}
 
 
 .body3 {
